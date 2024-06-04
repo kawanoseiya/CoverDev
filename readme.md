@@ -9,3 +9,8 @@ npm run dev
 
 以下にアクセス
 <http://localhost:3000>
+
+## styled-components
+
+npm install styled-components
+npm install --save-dev @types/styled-componets
